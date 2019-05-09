@@ -6,3 +6,7 @@ yarn add redux react-redux
 
 Outras dependencias:
 yarn add prop-types reactotron-react-js reactotron-redux react-router-dom redux-saga axios reactotron-redux-saga
+
+Dependencia do React Map Gl
+yarn add react-map-gl
+yarn add mapbox-gl

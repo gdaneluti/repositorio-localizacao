@@ -1,5 +1,10 @@
-import React from 'react';
+import React, { Fragment } from 'react';
+import Map from '../../components/Map';
 
-const Main = () => <h1>Hello World</h1>;
+const Main = () => (
+  <Fragment>
+    <Map />
+  </Fragment>
+);
 
 export default Main;
